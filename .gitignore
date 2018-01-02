@@ -1,5 +1,5 @@
-*.tfvars
+.terraform/
 *.tfstate
 *.backup
-.terraform/
-.idea/
+*.out
+
